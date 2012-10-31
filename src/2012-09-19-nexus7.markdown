@@ -1,0 +1,148 @@
+---
+layout: post
+title: "Nexus 7 简单评测（多图）"
+date: 2012-09-19 23:28
+comments: true
+categories: 
+
+---
+
+这次得到 Nexus 7虽然不太情愿 (原因不想说，太丢人 T T )，但是它带给我的惊喜却一点也不小，之前觉得Pad的用处实在不大，用iPad最多的时候就是上厕所的时候，其他时候都是抱着笔记本，但是这个7寸的Pad却改变了我对Pad的看法，不单单是它android 4.1的系统，更是它瘦身为7寸之后给我带来的方便。首先看Google官方对N7的性能参数介绍，可以看到性能相当强悍！
+
+![](http://farm9.staticflickr.com/8438/8003651263_a9fbb15714_z.jpg)
+
+<!--more-->
+#1. 外观
+↓ 7寸的平板怎么看都不错，而且这次华硕代工的设计已经足够我等粗人看的了，暂时没有出现网上所说的翘屏等现象。
+
+![](http://farm9.staticflickr.com/8176/8003327920_ab69bf072b_z.jpg)
+
+↓ 正面图，我的动态背景是会根据时间变化的，现在是晚上，所以月亮升起来了,后面会讲到。
+
+![](http://farm9.staticflickr.com/8305/8003312037_2ba22115eb_z.jpg)
+
+
+↓ 背面图，右侧有关机（锁机）按钮，还有音量键（PS. N7的截屏组合键为***关机键+音量向下键***）,还有那暗骚的背面，虽然是塑料的，但是作出了真皮的手感，很是佩服，跟我用Pentax K1000拍出莱卡的感觉的思维不谋而合，哈哈！
+
+![背面](http://farm9.staticflickr.com/8307/8003329520_45728e821b_z.jpg)
+
+#2. 应用
+### 2.1 壁纸 - 安卓壁纸
+↓ 第一款应用是在“安卓壁纸”中下载的动态壁纸，这款壁纸能随时间的变化而变化，下面两张图中可以看到太阳慢慢落下。
+
+接着看。
+
+![](http://farm9.staticflickr.com/8314/8003324083_308d2a977b.jpg)
+![](http://farm9.staticflickr.com/8180/8003323087_af8dcea066.jpg)
+
+↓ 然后是月亮慢慢升起，哈哈，挺有意思！
+
+![](http://farm9.staticflickr.com/8179/8003323506_4e88486dd4.jpg)
+![](http://farm9.staticflickr.com/8040/8003318091_fa11588105.jpg)
+
+### 2.2 浏览器
+
+↓ 我安装三个浏览器，一个自带的，一个 ***Chrome*** 还有一个 ***火狐***。火狐不怎么，也就是尝试下，Chrome和自带浏览器没什么差别，Chrome不能播放flash，自带浏览器能。对于 ***Flash***，默认是不支持的，Google Play中的Flash Player也是显示不支持本设备，但是可以到[XDA](http://forum.xda-developers.com/showthread.php?t=1763805)中下载。Chrome能同步其他设备中的记录，包括书签的什么的，自带浏览器中有个特殊功能可以到实验室中打开，在下图中可以看到，打开快捷菜单后显示为全屏，Tab工具栏这些都没了，可以从屏幕旁边触摸显示菜单，比较新，一次触摸后多次滑动来选择项目，所以可以一次点击完成操作，这种方式如果处理的好的话应该可以更便捷的操作，但是Google把这些菜单项排的太密，容易出现误操作。
+
+![](http://farm9.staticflickr.com/8314/8002264451_534ce57fd9.jpg)
+![](http://farm9.staticflickr.com/8179/8002264525_8ef48db14a.jpg)
+
+### 2.3 社交
+↓ 首先是***人人网***，客户端中规中矩吧，模仿了Path来做的，包括左下角的菜单，但是相册功能的排版做的不错，不那么死板了，所以还是值得推荐的。PS. 右边图中的双胞胎着实不错，求号码！
+
+![](http://farm9.staticflickr.com/8177/8002265561_f315b1c6d8.jpg)
+![](http://farm9.staticflickr.com/8033/8003316793_32b47be8e3.jpg)
+
+↓ 当然，微博，Path，Instgram这些都有。微博和Instgram跟iPad（iOS）版没什么区别，微博感觉放到7寸的屏幕上用太小了。Path则跟iPad版本差别较大，完全针对Android 4.1做的适配，非常棒！
+
+![](http://farm9.staticflickr.com/8305/8002267892_78551e1d48.jpg)
+![](http://farm9.staticflickr.com/8301/8003652774_4460fa8840.jpg)
+
+
+### 2.4 News Reader
+
+↓ 首先是***Feedly***，体验依旧出色，对Android 4.1做了适配，左侧是自己的订阅，右侧可以添加流行的订阅。
+
+![](http://farm9.staticflickr.com/8182/8002266751_78f3844408.jpg)
+![](http://farm9.staticflickr.com/8315/8002266659_8d368defbd.jpg)
+
+
+↓ 然后是***Pocket***，说道Pocket呢，就不得不提Instapaer了，我在iPhone中是买了Instapaper的，但是到了Android我又要重新买一遍我就有点不愿意了，所以就下了Pocket来试用，没想到Pocket已经做的如此出色，不论是APP的设计，服务的体验，还是最后文章的排版都不逊于Instapaper，我甚至要说，很多地方都超越了Instapaper，看了对比图就可以知道了。
+
+![](http://farm9.staticflickr.com/8319/8002267449_fb3b3884f9.jpg)
+![](http://farm9.staticflickr.com/8448/8002269786_94846b13a5.jpg)
+
+↓ ***Instapaper***的风格不错，我喜欢，但是文字排版略显粗糙。
+
+![](http://farm9.staticflickr.com/8304/8002269620_c50983dace.jpg)
+![](http://farm9.staticflickr.com/8436/8003650230_d58258499d.jpg)
+
+↓ 然后要介绍的就是Flipboard和BBC News，本身这两款应用到哪里都很优秀，就不多介绍了，在BBC news的截屏中可以看到一个小箭头和一个popup窗口显示了camera的翻译结果，对！这就是屏幕取词，这款软件叫做***屏幕翻译***，虽然能解决屏幕取词，但是词库不是很强大，能利用本次词库，ColorDict和深蓝词典，其中深蓝词典不支持N7，所以略显蛋疼！
+
+![](http://farm9.staticflickr.com/8460/8003652200_2d7cd47e84.jpg)
+![](http://farm9.staticflickr.com/8033/8002269984_142c98c818.jpg)
+
+### 2.5 ACG
+#### 2.5.1 布卡漫画
+然后当然是ACG宅男的应用了，布卡漫画这样的利器是一定要装的，有什么新的漫画都能提醒，我想看的**亲吻姐姐**啊，**血色星期一**啊这些小众的漫画都有，都直接能下载后看，看漫画的体验也不错，非常难得的**Android独占**好应用啊！
+
+![](http://farm9.staticflickr.com/8453/8002268294_38f6e60eca.jpg)
+![](http://farm9.staticflickr.com/8317/8002265945_62698679dd.jpg)
+
+![](http://farm9.staticflickr.com/8310/8002268035_a643985a55.jpg)
+![](http://farm9.staticflickr.com/8438/8002267931_19d2a05634.jpg)
+
+#### 2.5.2 Bilibili
+另外当然不能错过ACG巨作***Bilibili***酱了，哈哈！Android版完美支持弹幕！骚年们赶紧上！
+
+![](http://farm9.staticflickr.com/8321/8002269508_387d7b0b0b.jpg)
+![](http://farm9.staticflickr.com/8450/8002266999_20ecc6541c.jpg)
+
+![](http://farm9.staticflickr.com/8180/8002267097_9baacfe3a6_z.jpg)
+
+### 2.6 电子书
+
+这块应用是N7的大头，因为7寸的Pad非常适合手持，也就是说很适合拿来看书！我主要装了三个电子书阅读软件:Google Play Book,Kindle和智器阅读。Google Play Book不错，但是书源太少，而且必须翻墙下载；Kindle中规中矩，主要用来同步在Kindle Touch上看的内容；
+
+![](http://farm9.staticflickr.com/8446/8002267580_a78fe9a7ce.jpg)
+![](http://farm9.staticflickr.com/8169/8002265195_243b3ba093.jpg)
+
+另外一个以前从来没听说的**智器阅读**呢，就强大了。大家知道7寸屏幕可能不太合适直接用来看PDF的电子书，但是智器阅读就客服这点，它有智能和手动切白边的功能一下子把普通的PDF编程N7可看的PDF了，非常好用！阅读体验也不错，可以**图图画画作笔记**，是我拿来看PDF的必选！
+
+![](http://farm9.staticflickr.com/8318/8002264955_1986bc3cf4.jpg)
+![](http://farm9.staticflickr.com/8451/8002264861_aa58b26552.jpg)
+
+### 2.7 Sketchbook Pro & Emacs
+
+>昨天实在介绍了太多APP，把强大的Sketchbook和Emacs给忘了。Sketchbook的强大就不介绍了，我现在就只想要一只好的触摸笔。Emacs是Android原生的应用，不用启动Ubuntu，但是不怎么会用啊，不过也要学着发挥它强大的功能！
+
+
+
+![](http://farm9.staticflickr.com/8321/8002267665_fd0058c70c_z.jpg)
+![](http://farm9.staticflickr.com/8320/8002267843_92d6eaa95a_z.jpg)
+
+#3. Ubuntu
+
+### 3.1 第一步 安装
+好，最后来说一下怎么把Ubuntu 12折腾到N7上，这一步意义非凡啊，大家都知道Nexus 7支持OTG，可以直接把键盘鼠标这些设备往上插，有了Linux之后，N7真的可以拿来写点代码了。操作其实非常简单，用一款叫做Complete Linux Installer的应用就可以傻瓜操作一切流程。
+按照Install Guide下载好镜像文件，并装好必要的程序之后就可以Launch了。
+
+![](http://farm9.staticflickr.com/8448/8002266988_5837d76cbe.jpg)
+![](http://farm9.staticflickr.com/8034/8002264577_c69acb636c.jpg)
+
+### 3.2 第二步 运行
+启动之后会看到“root@localhost:/#”了，然后ls看下目录，已经变成ubuntu的目录，至此，就可以试用ubuntu shell的任何功能的，想装什么shell工具，直接apt-get就行。
+
+![](http://farm9.staticflickr.com/8460/8003313009_0ea3992554.jpg)
+![](http://farm9.staticflickr.com/8322/8003315630_615cb752f3.jpg)
+
+
+### 3.3 第三步 VNC
+第三步VNC的意思呢就是用Android的VNC app连接到正运行在Android之上的Ubuntu，这样就可以试用GUI环境了。不过这个功能还有些问题，第一界面显示不全，很多图标什么的都显示不出来，还有就是操作的问题，没有鼠标恐怕很麻烦，有了鼠标也很麻烦，你会发现插上鼠标后出现两个鼠标指针，一个是Android的一个是Ubuntu的。诶，不是原生的就是不行啊。下一步我打算把Nexus 7直接从Ubuntu启动，省去Android这个大麻烦了！
+
+![](http://farm9.staticflickr.com/8444/8003315486_c388708273_z.jpg)
+![](http://farm9.staticflickr.com/8171/8003312535_dd81898fb5_z.jpg)
+
+#4. 总结
+
+关于Nexus 7这几天的使用，以上就是全部了。另外关于电量，暂时没有什么特别的感受，唯一的感受就是够用，电池容量还是挺大的。网上说的闪屏没有碰到。总结就一句话，非常满意！
